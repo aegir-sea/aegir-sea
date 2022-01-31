@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @aegir-sea
+- 👋 Hi, I’m Sathyanarayanan M
 - 👀 I’m interested in Blockchain and Cryptos
 - 🌱 I’m currently learning Javascript
 - 💞️ I’m looking to collaborate on Blockchain Development
